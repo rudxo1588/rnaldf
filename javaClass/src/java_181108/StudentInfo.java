@@ -41,7 +41,7 @@ public class StudentInfo {
 				System.out.println("분석 >");
 				System.out.println("반 총점 : " + sum + "반 평균 : " + avg);
 			} else if (choice == 5) {
-				System.out.println("종료합니다.");
+				System.out.println("종료합니.");
 				scan.close();
 				break; 
 			}
